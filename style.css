@@ -19,7 +19,9 @@ section{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(orange tomato);
-    color: blue;
+    background-image: linear-gradient(blue, rgb(102, 102, 211));
+    padding: 10px 40px;
+    border-radius: 6px;
+    color: white;
     font-size: 700;
 }
